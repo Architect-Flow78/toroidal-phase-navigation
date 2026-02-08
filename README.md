@@ -17,3 +17,13 @@ but as movement through phase-stable channels.
 ## Run demo
 ```bash
 streamlit run app/streamlit_app.py
+
+---
+
+# 🧠 ФАЗОВАЯ МАТЕМАТИКА (ядро)
+
+## `phase/constants.py`
+
+```python
+PI = 1.0  # π = 1 by definition
+EPS = 1e-6
